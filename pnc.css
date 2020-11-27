@@ -1,0 +1,82 @@
+body{
+	background: linear-gradient(45deg,lightgreen,lightsalmon,lightgreen);
+	font-family: sans-serif;
+	text-align: center;
+}
+
+h1{
+	font-family: sans-serif;
+	font-size: 40px;
+	text-align: center;
+}
+
+h2{
+	background: linear-gradient(45deg,red,black,red);
+	color: white;
+	padding: 15px;
+	border-radius: 50%;
+	width: 80%;
+	margin: auto;
+	box-shadow: 0 0 10px black;
+	text-align: center;
+}
+
+p{
+	font-size: 20px;
+	width: 80%;
+	margin: auto;
+}
+
+table,td,th{
+	border: 2px solid black;
+}
+
+td,th{
+	padding: 5px;
+}
+
+table{
+	margin: auto;
+	width: 80%;
+	text-align: center;
+
+}
+
+img{
+	max-width: 200px;
+	max-width: 300px;
+	margin: auto;
+	border-radius: 10px;
+	box-shadow: 0 0 10px black;
+
+}
+
+.row{
+	margin: auto;
+	text-align: center;
+}
+
+.col-sm-4{
+	padding: 10px;
+}
+
+.inner{
+	width: 80%;
+	margin: auto;
+	text-align: center;
+	padding: 4px;
+}
+
+.ellipse{
+	border: 1px solid black;
+	border-radius: 10px;
+}
+
+.inf{
+	padding: 4px;
+}
+
+.foot{
+	text-align: center;
+	font-size: 15px;
+}
